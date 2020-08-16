@@ -45,6 +45,7 @@ public class DataConfigurarion {
 
 	        return basicDataSource;
 	    }
+	 @Bean
 	 public JpaVendorAdapter jpaVendorAdapter() {
 		   HibernateJpaVendorAdapter adapter = new HibernateJpaVendorAdapter();
 		   adapter.setDatabase(Database.POSTGRESQL);
