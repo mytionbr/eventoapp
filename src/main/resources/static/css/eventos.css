@@ -1,0 +1,19 @@
+.conteiner-detalhe{
+	box-shadow: 2px 2px 2px 1px rgba(0, 0, 0, 0.2);
+	margin: 30px 20%;
+	background-color: #ede7f6;
+	color:#5e35b1;
+}
+.form-convidado{
+	width: 85%;
+	margin: 0 auto;
+	border: solid 2px #5e35b1;
+	padding: 10px;
+}
+.form-evento{
+	width: 70%;
+	margin: 40px auto;
+	border: solid 2px #5e35b1;
+	padding: 10px;
+	
+}
